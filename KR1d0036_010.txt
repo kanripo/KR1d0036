@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 經禮補逸
-#+DATE: 2015-09-23 09:37:47
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:08:51.464312
+#+PROPERTY: ID KR1d0036
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附錄
 <pb:KR1d0036_WYG_010-1a>¶
 欽定四庫全書¶
 　經禮補逸¶
@@ -150,4 +152,3 @@
 芳字寡助多助俱留他日之嘉名各發肯心共完勝事¶
 不日良工㑹集千年善本流傳天夀斯文與山川而悠¶
 久人介景福畀子姓之聦明拱手告聞㸃頭允可謹咨¶
-
